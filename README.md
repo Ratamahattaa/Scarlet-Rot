@@ -1,6 +1,6 @@
 <div align="center">
 
-# Scarlet Rot — Elden Ring UI Simulation
+# Scarlet Rot 
 </div>
 
 <table>
@@ -34,10 +34,6 @@ Celem projektu jest połączenie prostych mechanik siatkowych z efektami graficz
 1. Kliknij na siatkę, aby rozpocząć infekcję.
 2. Obserwuj rozprzestrzenianie się zarazy.
 3. Kliknij **„Cleanse Rot”** aby zresetować.
-
-## Licencja
-
-MIT License
 
 </td>
 <td>
